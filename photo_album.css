@@ -1,0 +1,43 @@
+
+
+img {
+	height: 300px;
+	width: 300px;
+}
+
+table, td {
+	border: 2px #70b8ff solid;
+}
+
+.Nav {
+	display: inline;
+	margin-top: 25px;
+	padding: 0px 5% 0px 5%;
+	position: relative;
+	top: 5px;
+	text-decoration: none;
+	font-size: 1.25em;
+	
+	
+}
+#NavBar a {
+	color: white;
+	font-family: helvetica;
+}
+
+#NavBar {
+	z-index: 1;
+	position: fixed;
+	width: 100%;
+	margin-top: -10px;
+	height: 35px;
+	background-color: #7f8c8d;
+	margin-bottom: 0px;
+	margin-left:-8px;
+	font-color: white;
+}
+a {
+	text-decoration: none;
+	color: white;
+	
+}

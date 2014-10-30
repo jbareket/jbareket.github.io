@@ -1,0 +1,81 @@
+h2 {
+	padding-top:55px;
+	align: center;
+	font-family: sans-serif;
+}
+#button {
+	border-radius: 100px;
+	border: 5px solid #6495ED;
+	background-color: #BCD2EE;
+	height: 75px;
+	width: 300px;
+	margin-top: 15px;
+	text-align: center;
+	padding-top:10px;
+	padding-bottom:10px;
+	
+}
+.name {
+	padding-top:20px;
+}
+body {
+	background-color: #3498db;
+}
+
+img {
+	height: 80px;
+	width: 80px;
+	padding-top: 100px;
+}
+
+
+#table table {
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 40px;
+    width: 100%;
+}
+
+td {
+	padding: 0px 50px 0px 50px;
+}
+table, td {
+	border: 0px #70b8ff solid;
+}
+tbody {
+	padding-top: 20px;
+}
+.Nav {
+	display: inline;
+	margin-top: 25px;
+	padding: 0px 5% 0px 5%;
+	position: relative;
+	top: 5px;
+	text-decoration: none;
+	font-size: 1.25em;
+	
+	
+}
+#NavBar a {
+	color: white;
+	font-family: helvetica;
+}
+
+#NavBar {
+	z-index: 1;
+	position: fixed;
+	width: 100%;
+	margin-top: -10px;
+	height: 35px;
+	background-color:  #2980b9;
+	margin-bottom: 0px;
+	margin-left:-8px;
+	font-color: white;
+}
+a {
+	text-decoration: none;
+	color:#222930;
+	font-weight: bold;
+	font-family: sans-serif;
+	}
+	
